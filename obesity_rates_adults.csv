@@ -1,0 +1,43 @@
+year,age_group,obesity_rate
+1997,18 - 24 years old,2.1
+2000,18 - 24 years old,2.6
+2003,18 - 24 years old,2.8
+2006,18 - 24 years old,3.8
+2009,18 - 24 years old,4
+2012,18 - 24 years old,5.4
+2020,18 - 24 years old,9.2
+1997,25 - 34 years old,5.5
+2000,25 - 34 years old,6.9
+2003,25 - 34 years old,8.3
+2006,25 - 34 years old,8.7
+2009,25 - 34 years old,10.4
+2012,25 - 34 years old,10.8
+2020,25 - 34 years old,13.8
+1997,35 - 44 years old,7.7
+2000,35 - 44 years old,8.3
+2003,35 - 44 years old,11.6
+2006,35 - 44 years old,13.1
+2009,35 - 44 years old,13.9
+2012,35 - 44 years old,14.3
+2020,35 - 44 years old,16.7
+1997,45 - 54 years old,10.7
+2000,45 - 54 years old,12.7
+2003,45 - 54 years old,14.3
+2006,45 - 54 years old,14.9
+2009,45 - 54 years old,16
+2012,45 - 54 years old,16
+2020,45 - 54 years old,18.4
+1997,55 - 64 years old,11.2
+2000,55 - 64 years old,13.5
+2003,55 - 64 years old,15.4
+2006,55 - 64 years old,16.5
+2009,55 - 64 years old,17.9
+2012,55 - 64 years old,18.7
+2020,55 - 64 years old,19.9
+1997,65 and older,13.2
+2000,65 and older,15.3
+2003,65 and older,15.9
+2006,65 and older,18.3
+2009,65 and older,19.8
+2012,65 and older,19.5
+2020,65 and older,19.2
